@@ -224,6 +224,7 @@ nav {
     display: none;
   }
   .links {
+    /* IMPORTANT TO ADD */
     height: auto;
     display: flex;
   }
