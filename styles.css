@@ -198,11 +198,13 @@ nav {
 .social-icons {
   display: none;
 }
+/* BY DEFAULT HIDE LINKS */
 .links {
-  /* height: 0;
+  height: 0;
   overflow: hidden;
-  transition: var(--transition); */
+  transition: var(--transition); 
 }
+/* TOGGLE CLASS SHOW THE LINKS */
 .show-links {
   height: 10rem;
 }
