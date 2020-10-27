@@ -28,7 +28,7 @@ $ cd <directory>
 - Clone the repo typing:
 
 ```
-$ git clone git@github.com:brugobi/project_3_of_15-Reviews.git
+$ git clone git@github.com:brugobi/project_4_of_15-Navbar.git
 
 ```
 
